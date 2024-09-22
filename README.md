@@ -76,3 +76,10 @@ E) Time Series Forecasting
        Colab: [https://github.com/BharathiVetukuri/CMPE-255-PyCaret/blob/main/D_PyCaret_Association_Rules_Mining.ipynb]
        Youtube: [https://youtu.be/4LoKjffY7NM](https://youtu.be/4LoKjffY7NM)
 
+The following are the screenshots of the interface / HTML pages of Gradio output for the above examples:
+
+<img width="1440" alt="Gradio-1_Regression" src="https://github.com/user-attachments/assets/c2f87597-44e1-4d04-a545-05b3a4d3398a">
+
+<img width="1440" alt="Gradio-2_Clustering" src="https://github.com/user-attachments/assets/fd7cd955-9ada-4cdc-9064-38b538c30239">
+
+
