@@ -19,6 +19,16 @@ Steps for Performing PyCaret:
 
 Setup -> Compare Models -> Analyze Models -> Prediction -> Save and Load Models
 
+Following are the Demo Video Links from Youtube:
+
+[![PyCaret Demo for Binary Classification, Multiclass Classification and Regression](https://img.youtube.com/vi/cChBgQkfcps/0.jpg)](https://www.youtube.com/watch?v=cChBgQkfcps)
+
+[![PyCaret Demo for Clustering, Anomaly Detection and Association Rules Mining](https://img.youtube.com/vi/gAdZjy7XRTk/0.jpg)](https://www.youtube.com/watch?v=gAdZjy7XRTk) 
+
+[![PyCaret Demo for Time Series Forecasting With Exogenous Variables and Without Exogenous Variables](https://img.youtube.com/vi/ybgke-VvL3U/0.jpg)](https://www.youtube.com/watch?v=ybgke-VvL3U)
+
+[![Use Gradio to generate an Interface for PyCaret Regression and Clustering](https://img.youtube.com/vi/4LoKjffY7NM/0.jpg)](https://www.youtube.com/watch?v=4LoKjffY7NM) 
+
 ##Tasks:
 
 A) Classification 
